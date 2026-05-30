@@ -27,14 +27,13 @@ class MohanDass:
         self.email       = "mohankholi7902@gmail.com"
 
         self.stack = [
-            "Python", "Django", "JavaScript",
-            "React.js", "Node.js", "HTML", "CSS",
-            "Bootstrap", "SQL", "MongoDB"
+            "Python", "Gen-AI", "Django",
+            "Flask", "JavaScript", "MYSQL"
+            "HTML", "CSS", "Bootstrap"
         ]
 
         self.currently_learning = [
-            "Advanced React Patterns",
-            "REST API Design",
+            "Advance Gen-AI"
             "Cloud Deployment"
         ]
 
