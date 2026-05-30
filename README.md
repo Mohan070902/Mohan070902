@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Mohan+Dass+%F0%9F%91%8B;Full+Stack+Developer+%7C+Python+%2B+React;Building+AI-Powered+Web+Apps;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Mohan+Dass+%F0%9F%91%8B;Full+Stack+Developer+%7C+Python+%2B+Gen-AI;Building+AI-Powered+Web+Apps;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Mohan070902&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Mohan070902)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-dass-100433313)
